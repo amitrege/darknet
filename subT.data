@@ -1,0 +1,5 @@
+classes= 5
+train  = /home/overlord/Documents/SSCI/1653_subtColorado/data/5Classes/train.txt
+valid  = data/test.txt
+names = data/artifact.names
+backup = backup/
